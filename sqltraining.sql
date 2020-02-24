@@ -1,5 +1,3 @@
--- drop database uam;
-
 CREATE DATABASE uam;
 
 USE uam;
